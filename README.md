@@ -1,15 +1,15 @@
 # Profile
 
-I am a +6 year experienced industrial researcher in CS, Computer Networks, Machine Learning and Cybersecurity. I'm working for NEC Corporation as Security Researcher/Engineer. I also manage a collaborative research with a national research institute, and universities to improve information security.
+I am a +6 year experienced industrial researcher and software engineer in CS, Computer Networks, Machine Learning (ML), and Cybersecurity. I'm working for NEC Corporation as Security Researcher/Engineer to develop a new security solution using ML techniques. I also manage collaborative research with a national research institute, and universities to develop new information security technologies.
 
-I have a substantial experience in analyzing log-data to detect anomaly, and build a model using machine-learning techniques for its automation. I have focused on usability for end-users when I designs an algorithm and system architectures.
+I have substantial experience analyzing data to detect outliers, building an ML model, designing system architecture for automation. I have focused on usability for end-users when I design an algorithm and system architectures.
 
-Please see <https://github.com/dhasumi/cv> to see my publications.
+Please visit <https://github.com/dhasumi/cv> to see my publications.
 
 ## Research Interest
 
-- Machine Learning
 - Information Security and Privacy
+- Machine Learning
 - Cybersecurity
 - Computer Networks
 - Mobile Communications, and its application
