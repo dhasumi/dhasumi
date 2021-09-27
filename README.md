@@ -4,6 +4,8 @@ I am a +6 year experienced industrial researcher in CS, Computer Networks, Machi
 
 I have a substantial experience in analyzing log-data to detect anomaly, and build a model using machine-learning techniques for its automation. I have focused on usability for end-users when I designs an algorithm and system architectures.
 
+Please see <https://github.com/dhasumi/cv> to see my publications.
+
 ## Research Interest
 
 - Machine Learning
